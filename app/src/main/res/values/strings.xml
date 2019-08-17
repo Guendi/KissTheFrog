@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KissTheFrog</string>
+    <string name="highscore">highscore</string>
+    <string name="points">points</string>
+    <string name="round">round</string>
+    <string name="countdown">countdown</string>
+    <string name="start">start</string>
+    <string name="game_over">Game Over</string>
+    <string name="play_again">Play Again</string>
+    <string name="kissed">KISSED!</string>
+    <string name="tutorial">Can you find and kiss the frog before he jumps to another lover?</string>
+
+</resources>
